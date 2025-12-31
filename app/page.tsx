@@ -132,7 +132,7 @@ const TIMELINE: TimelineItem[] = [
             "\n" +
             "Wir freuen uns auf all das, was das nächste Jahr für uns bereithält –\n" +
             "gemeinsam mit euch. 🤍",
-        image: "/images/21.jpeg",
+        image: "/images/33.jpeg",
     },
     {
         type: "event",
